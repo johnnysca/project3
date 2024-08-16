@@ -7,5 +7,5 @@ Your program must run in under three minutes on the grading computer.
 Here are some sample running times:
 1) n=20, 4016 ms
 2) n=21, 8432 ms
-3) n=22 18034 ms
-4) n=23 39822 ms
+3) n=22, 18034 ms
+4) n=23, 39822 ms
